@@ -11,7 +11,7 @@ sites:
     url: https://news.ycombinator.com
   - name: Test Broken Site
     url: https://thissitedoesnotexist.koj.co
-   -name: CR Metrics Test
+  - name: CR Metrics Test
     url: 34.125.236.8:3000/api/metrics
 
 status-website:
