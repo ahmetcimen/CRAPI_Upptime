@@ -3,11 +3,11 @@ owner: ahmetcimen
 repo: CRAPI_Upptime
 
 sites:
-  - name: CR Metric Info Test
+  - name: CR Metric Info
     url: 34.125.236.8:3000/api/metricInfo
-  - name: CR Contracts Test
+  - name: CR Contracts
     url: 34.125.236.8:3000/api/contracts
-  - name: CR Metrics Test
+  - name: CR Metrics
     url: 34.125.236.8:3000/api/metrics
 
 status-website:
@@ -15,7 +15,7 @@ status-website:
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   baseUrl: CRAPI_Upptime
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: Upptime
+  name: CoinRadar Metric API Status
   introTitle: "**CoinRadar Metric API** uptime monitor and status page."
   introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
   navbar:
