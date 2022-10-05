@@ -4,19 +4,19 @@
     "url": "34.125.236.8:3000/api/metricInfo",
     "icon": "https://icons.duckduckgo.com/ip3/3000.ico",
     "slug": "cr-metric-info",
-    "status": "down",
-    "uptime": "99.82%",
-    "uptimeDay": "99.78%",
-    "uptimeWeek": "99.82%",
-    "uptimeMonth": "99.82%",
-    "uptimeYear": "99.82%",
-    "time": 6691,
-    "timeDay": 6770,
-    "timeWeek": 6691,
-    "timeMonth": 6691,
-    "timeYear": 6691,
+    "status": "up",
+    "uptime": "98.76%",
+    "uptimeDay": "98.52%",
+    "uptimeWeek": "98.76%",
+    "uptimeMonth": "98.76%",
+    "uptimeYear": "98.76%",
+    "time": 7512,
+    "timeDay": 7963,
+    "timeWeek": 7512,
+    "timeMonth": 7512,
+    "timeYear": 7512,
     "dailyMinutesDown": {
-      "2022-10-05": 3
+      "2022-10-05": 21
     }
   },
   {
@@ -24,19 +24,19 @@
     "url": "34.125.236.8:3000/api/contracts",
     "icon": "https://icons.duckduckgo.com/ip3/3000.ico",
     "slug": "cr-contracts",
-    "status": "down",
-    "uptime": "99.91%",
-    "uptimeDay": "99.89%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "99.91%",
-    "uptimeYear": "99.91%",
-    "time": 57,
-    "timeDay": 66,
-    "timeWeek": 57,
-    "timeMonth": 57,
-    "timeYear": 57,
+    "status": "up",
+    "uptime": "98.85%",
+    "uptimeDay": "98.63%",
+    "uptimeWeek": "98.85%",
+    "uptimeMonth": "98.85%",
+    "uptimeYear": "98.85%",
+    "time": 68,
+    "timeDay": 79,
+    "timeWeek": 68,
+    "timeMonth": 68,
+    "timeYear": 68,
     "dailyMinutesDown": {
-      "2022-10-05": 2
+      "2022-10-05": 20
     }
   },
   {
@@ -44,19 +44,19 @@
     "url": "34.125.236.8:3000/api/metrics",
     "icon": "https://icons.duckduckgo.com/ip3/3000.ico",
     "slug": "cr-metrics",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 55,
-    "timeDay": 64,
-    "timeWeek": 55,
-    "timeMonth": 55,
-    "timeYear": 55,
+    "status": "up",
+    "uptime": "98.94%",
+    "uptimeDay": "98.73%",
+    "uptimeWeek": "98.94%",
+    "uptimeMonth": "98.94%",
+    "uptimeYear": "98.94%",
+    "time": 52,
+    "timeDay": 55,
+    "timeWeek": 52,
+    "timeMonth": 52,
+    "timeYear": 52,
     "dailyMinutesDown": {
-      "2022-10-05": 0
+      "2022-10-05": 18
     }
   }
 ]
