@@ -1,7 +1,7 @@
 url: 34.125.236.8:3000/api/metrics
-status: up
-code: 200
-responseTime: 43
-lastUpdated: 2022-10-20T23:14:40.535Z
+status: down
+code: 0
+responseTime: 0
+lastUpdated: 2022-10-21T13:00:21.095Z
 startTime: Tue Oct 04 2022 10:19:34 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
