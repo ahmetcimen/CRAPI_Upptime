@@ -5,18 +5,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/3000.ico",
     "slug": "cr-metric-info",
     "status": "down",
-    "uptime": "4.99%",
+    "uptime": "4.98%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "1.15%",
+    "uptimeYear": "0.88%",
     "time": 10213,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 11274,
+    "timeYear": 11599,
     "dailyMinutesDown": {
-      "2023-10-20": 29,
+      "2023-10-21": 28,
+      "2023-10-20": 1440,
       "2023-10-19": 1440,
       "2023-10-18": 1440,
       "2023-10-17": 1440,
@@ -378,8 +379,7 @@
       "2022-10-26": 111,
       "2022-10-25": 708,
       "2022-10-23": 1092,
-      "2022-10-22": 1440,
-      "2022-10-21": 660
+      "2022-10-22": 1440
     }
   },
   {
@@ -388,18 +388,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/3000.ico",
     "slug": "cr-contracts",
     "status": "down",
-    "uptime": "5.19%",
+    "uptime": "5.18%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "1.15%",
+    "uptimeYear": "0.88%",
     "time": 331,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 83,
+    "timeYear": 87,
     "dailyMinutesDown": {
-      "2023-10-20": 29,
+      "2023-10-21": 28,
+      "2023-10-20": 1440,
       "2023-10-19": 1440,
       "2023-10-18": 1440,
       "2023-10-17": 1440,
@@ -761,8 +762,7 @@
       "2022-10-26": 81,
       "2022-10-25": 708,
       "2022-10-23": 1092,
-      "2022-10-22": 1440,
-      "2022-10-21": 660
+      "2022-10-22": 1440
     }
   },
   {
@@ -771,18 +771,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/3000.ico",
     "slug": "cr-metrics",
     "status": "down",
-    "uptime": "5.20%",
+    "uptime": "5.18%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "1.16%",
+    "uptimeYear": "0.88%",
     "time": 782,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 51,
+    "timeYear": 52,
     "dailyMinutesDown": {
-      "2023-10-20": 29,
+      "2023-10-21": 28,
+      "2023-10-20": 1440,
       "2023-10-19": 1440,
       "2023-10-18": 1440,
       "2023-10-17": 1440,
@@ -1144,8 +1145,7 @@
       "2022-10-26": 78,
       "2022-10-25": 708,
       "2022-10-23": 1092,
-      "2022-10-22": 1440,
-      "2022-10-21": 660
+      "2022-10-22": 1440
     }
   }
 ]
